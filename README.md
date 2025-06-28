@@ -1,4 +1,4 @@
-# 🤖 Genie AI — Gemini-Powered Desktop Chatbot
+# 🧞 Genie AI — Gemini-Powered Desktop Chatbot
 
 **Genie AI** is a desktop-based chatbot that enables natural language conversations using Google's **Gemini API**. The project features a modular architecture, combining a modern desktop GUI (built with **CustomTkinter**), a Python **Flask** backend, and optional **MongoDB** integration for persistent chat logs.
 
